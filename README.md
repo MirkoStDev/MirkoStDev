@@ -3,7 +3,7 @@
   -Languages: Italian, Spanish, English.
 - ⚽ Hobbies: Gym, Footbal and read books
 - 💻 Technologies: GIT, HTML, CSS, TailwindCSS, Bootstrap, JavaScript, TypeScript, React.
-- [🧠 Currently Learning: The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
+- 🧠 Currently Learning: [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
   
 
 <!---
