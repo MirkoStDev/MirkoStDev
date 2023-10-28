@@ -3,7 +3,8 @@
   -Languages: Italian, Spanish, English.
 - ⚽ Hobbies: Gym, Footbal and read books
 - 💻 Technologies: GIT, HTML, CSS, TailwindCSS, Bootstrap, JavaScript, TypeScript, React.
-- 🧠 Currently Learning: The Ultimate React Course 2023: React, Redux & More
+- [🧠 Currently Learning: The Ultimate React Course 2023: React, Redux & More]([miofile.md](https://www.udemy.com/course/the-ultimate-react-course/))
+  
 
 <!---
 MirkoStDev/MirkoStDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
